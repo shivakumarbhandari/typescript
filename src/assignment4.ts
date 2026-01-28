@@ -15,7 +15,7 @@ const printUser = (user: User) =>{
     console.log('Account active: ${isActive}');
 
     
-};
+}
 printUser({
     firstName:"Shiva",
     lastName:"Bhandari",
